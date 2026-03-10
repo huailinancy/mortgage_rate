@@ -1,4 +1,4 @@
-# MSIS 522 HW1 - Streamlit App
+
 # Run: streamlit run app.py
 
 import os, json
