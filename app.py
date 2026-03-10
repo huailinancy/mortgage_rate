@@ -84,7 +84,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
 
 with tab1:
     st.title("Mortgage Rate Spread Predictor")
-    st.markdown('<p style="font-size:1.25rem;font-weight:600;margin-top:-0.5rem;">MSIS 522 HW1 - End-to-End Data Science Workflow</p>', unsafe_allow_html=True)
+    st.markdown('<p style="font-size:1.25rem;font-weight:600;margin-top:-0.5rem;">End-to-End Data Science Workflow</p>', unsafe_allow_html=True)
     st.divider()
     st.markdown(
         "### What Is This Dataset?\n\n"
