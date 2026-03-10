@@ -1,5 +1,4 @@
-"""
-MSIS 522 HW1 – Streamlit App
+
 ==============================
 End-to-end mortgage rate spread analysis and interactive predictor.
 Run: streamlit run app.py
