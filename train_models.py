@@ -1,5 +1,5 @@
-"""
-MSIS 522 HW1 – Model Training Script
+
+
 =====================================
 Predicts mortgage rate_spread (interest rate premium above 10-yr Treasury).
 Run once:  python train_models.py
